@@ -12,3 +12,4 @@ C:\Users\MOJ5JVL\OneDrive - Bosch Group\Aula DTA\repositorio\c#\Exercicios\obj\D
 C:\Users\MOJ5JVL\OneDrive - Bosch Group\Aula DTA\repositorio\c#\Exercicios\obj\Debug\net8.0\Exercicios.pdb
 C:\Users\MOJ5JVL\OneDrive - Bosch Group\Aula DTA\repositorio\c#\Exercicios\obj\Debug\net8.0\Exercicios.genruntimeconfig.cache
 C:\Users\MOJ5JVL\OneDrive - Bosch Group\Aula DTA\repositorio\c#\Exercicios\obj\Debug\net8.0\ref\Exercicios.dll
+C:\Users\MOJ5JVL\OneDrive - Bosch Group\Aula DTA\repositorio\c#\Exercicios\obj\Debug\net8.0\Exercicios.sourcelink.json
