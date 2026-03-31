@@ -1,4 +1,4 @@
-﻿/*using static System.Console;
+﻿using static System.Console;
 
 int valor1;
 int valor2;
@@ -41,19 +41,19 @@ switch(operacao)
         WriteLine("Resultado: " + (valor1 + valor2));
         break;
     case 2:
-        WriteLine(valor1 - valor2);
+        WriteLine("Resultado: " + (valor1 - valor2));
         break;
     case 3:
-        WriteLine(valor1 * valor2);
+        WriteLine("Resultado: " + (valor1 * valor2));
         break;
     case 4:
         if (valor2 == 0){
         WriteLine("Não é possível dividir por zero.");
         }else{
-        WriteLine(valor1 / valor2);    }
+        WriteLine("Resultado: " + (valor1 / valor2));    }
         break;
     case 5:
-        WriteLine("Resto da Divisão: " + valor1 % valor2);
+        WriteLine("Resto da Divisão: " + (valor1 % valor2));
         break;
     case 6:
         double resultado = Math.Pow(valor1, valor2);
@@ -62,4 +62,4 @@ switch(operacao)
     default:
         WriteLine("Opção inválida");
         break;
-}*/
+}

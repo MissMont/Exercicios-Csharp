@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Globalization;
 
 enum Moeda{
@@ -66,4 +66,4 @@ class Program{
         Console.WriteLine("\nResultado:");
         Console.WriteLine(resultado.ToString("C", cultura));
     }
-}
+}*/
